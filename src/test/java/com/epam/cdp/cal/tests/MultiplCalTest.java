@@ -14,7 +14,6 @@ public class MultiplCalTest extends BaseTest {
     Assert.assertEquals(result, expectedValue, "Multiplication result invalid!");
   }
 
-
   @DataProvider (name = "valuesForMultiplication")
   public Object [][] valuesForMultiplication(){
     return new Object[][] {

@@ -1,0 +1,9 @@
+*.classpath
+*.idea/
+*.project
+*.settings/
+pom.xml
+src/
+*target/
+*test-output/
+

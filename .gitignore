@@ -3,7 +3,7 @@
 *.project
 *.settings/
 pom.xml
-src/
+src/main/
 *target/
 *test-output/
 
